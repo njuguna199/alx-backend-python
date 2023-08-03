@@ -3,7 +3,7 @@
 
 PythonBack-end
 
-- By Dev Nderitu
+- By Kim Njuguna
 
 ### Concepts
 
